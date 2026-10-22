@@ -41,14 +41,6 @@ These describe areas I work and experiment in, not a claim of expert-level profi
 
 Some other repositories contain experimental, archived, or security-sensitive material and are intentionally not featured here. Repository names or descriptions do not by themselves establish authorship, permission to redistribute, or safety.
 
-## How I build
-
-- **Prototype quickly, then review.** AI-generated code still needs human inspection, tests, and debugging.
-- **Keep private experiments private** while they are unfinished or under review.
-- **Respect source provenance.** Preserve upstream notices and verify license compatibility before publishing or reusing code.
-- **Take security seriously.** Never commit credentials or personal data; report vulnerabilities responsibly; test only on systems you own or are authorized to assess.
-- **Be clear about limitations.** Small projects may be experiments, incomplete, or unsupported unless their README says otherwise.
-
 ## Explore
 
 - [Browse all organization repositories](https://github.com/orgs/tealaxdevelopers/repositories)
