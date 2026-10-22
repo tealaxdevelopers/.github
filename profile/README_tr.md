@@ -43,11 +43,7 @@ Diğer bazı depolar deneysel, arşiv niteliğinde veya güvenlik açısından h
 
 ## Nasıl geliştiriyorum?
 
-- **Hızlı prototip, ardından inceleme.** Yapay zekânın ürettiği kod da insan incelemesine, testlere ve hata ayıklamaya ihtiyaç duyar.
-- **Özel deneyleri özel tutarım.** Tamamlanmamış veya inceleme aşamasındaki projeleri hazır olmadan yayımlamam.
-- **Kaynak kökenine saygı duyarım.** Kod yayımlamadan veya yeniden kullanmadan önce kaynak bildirimlerini ve lisans uyumluluğunu kontrol ederim.
-- **Güvenliği önemserim.** Parola ve erişim anahtarı yayımlamam; güvenlik açıklarını sorumlu biçimde bildirir, yalnızca izinli sistemlerde test yaparım.
-- **Sınırları açıkça belirtirim.** README aksini söylemediği sürece küçük projeler deneysel, eksik veya desteksiz olabilir.
+- **Kaynak ve lisansları kontrol ederim.** Kodun kaynağını, ilgili bildirimleri ve lisans koşullarını yeniden kullanmadan veya paylaşmadan önce incelerim.
 
 ## Keşfet
 
