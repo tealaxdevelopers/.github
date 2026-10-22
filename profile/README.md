@@ -6,7 +6,7 @@
 
 A small independent developer space led by **Enver**, a vibe coder based in **Bursa, Türkiye**.
 
-[🇬🇧 English](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_en.md) · [🇹🇷 Türkçe](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_tr.md)
+[🇹🇷 Türkçe](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_tr.md) · [🇷🇺 Русский](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_ru.md)
 
 </div>
 
