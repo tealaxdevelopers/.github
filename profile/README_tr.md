@@ -6,7 +6,7 @@
 
 **Bursa, Türkiye** merkezli vibe coder **Enver** tarafından yürütülen bağımsız bir geliştirici alanı.
 
-[🇬🇧 English](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_en.md) · [🇹🇷 Türkçe](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_tr.md)
+[🇬🇧 English](https://github.com/tealaxdevelopers/.github/blob/main/profile/README.md) · [🇷🇺 Русский](https://github.com/tealaxdevelopers/.github/blob/main/profile/README_ru.md)
 
 </div>
 
