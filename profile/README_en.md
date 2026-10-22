@@ -51,7 +51,7 @@ Some other repositories contain experimental, archived, or security-sensitive ma
 
 ## Explore
 
-- [Tealax organization and repositories](https://github.com/tealaxdevelopers)
+- [Browse all organization repositories](https://github.com/orgs/tealaxdevelopers/repositories)
 - [Modded-OpenCode](https://github.com/tealax-vibecoding/Modded-OpenCode)
 
 ---
