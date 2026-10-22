@@ -51,7 +51,7 @@ Diğer bazı depolar deneysel, arşiv niteliğinde veya güvenlik açısından h
 
 ## Keşfet
 
-- [Tealax organizasyonu ve depoları](https://github.com/tealaxdevelopers)
+- [Tüm depolara göz at](https://github.com/orgs/tealaxdevelopers/repositories)
 - [Modded-OpenCode](https://github.com/tealax-vibecoding/Modded-OpenCode)
 
 ---
