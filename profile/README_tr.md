@@ -41,10 +41,6 @@ Bu liste çalıştığım ve denediğim alanları gösterir; her dilde uzman old
 
 Diğer bazı depolar deneysel, arşiv niteliğinde veya güvenlik açısından hassas içerikler barındırdığı için burada öne çıkarılmıyor. Depo adı ya da açıklaması tek başına yazarlığı, yeniden dağıtım iznini veya güvenliği kanıtlamaz.
 
-## Nasıl geliştiriyorum?
-
-- **Kaynak ve lisansları kontrol ederim.** Kodun kaynağını, ilgili bildirimleri ve lisans koşullarını yeniden kullanmadan veya paylaşmadan önce incelerim.
-
 ## Keşfet
 
 - [Tüm depolara göz at](https://github.com/orgs/tealaxdevelopers/repositories)
